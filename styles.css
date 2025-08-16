@@ -93,7 +93,7 @@ header nav ul li:hover::after {
 
 .list {
     max-width: 1200px;
-    height: 85%;
+    height: 100%;
     margin: 0 auto;
     position: relative;
 }
