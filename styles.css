@@ -209,6 +209,10 @@ header nav ul li:hover::after {
     color: #00f7ff;
 }
 
+.arrow-btn:active {
+    opacity: 0.4;
+}
+
 .indicators {
     position: absolute;
     bottom: 10px;
