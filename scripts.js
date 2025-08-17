@@ -5,6 +5,7 @@ const dots = document.querySelectorAll(".dot")
 const numberIndicator = document.querySelector(".numbers")
 
 let active = 0
+let timer
 
 const update = (direction) => {
     document.querySelector(".item.active").classList.remove("active")
@@ -29,9 +30,13 @@ const update = (direction) => {
     numberIndicator.innerHTML = `0${active + 1}`
 }
 
-setInterval(() => {
+clearInterval(timer)
+timer = setInterval(() => {
     update(1)
 }, 4000);
+
+console.log(timer);
+
 
 nextButton.addEventListener("click", () => {
     update(1)
