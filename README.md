@@ -34,7 +34,10 @@ DevClub-Store/
 │── scripts.js   # Lógica do carrossel
 │── img/         # Imagens dos produtos
 ```
-🚀 Como Executar o Projeto
+
+###
+
+## 🚀 Como Executar o Projeto
 
 ▶️ Localmente
 
@@ -50,7 +53,9 @@ cd devclub-store
 
 Abra o arquivo index.html no navegador.
 
-🌍 Online (Netlify)
+###
+
+## 🌍 Online (Netlify)
 
 O projeto também está publicado no Netlify:
 
@@ -69,6 +74,19 @@ O projeto também está publicado no Netlify:
  - Criar páginas individuais para cada produto.
  - Implementar carrinho de compras fictício.
  - Adicionar transições extras e responsividade avançada.
+
+###
+
+## 🎯 O que pratiquei neste projeto  
+
+- Manipulação de **DOM** com JavaScript  
+- **Eventos e interatividade** (click, carrossel)  
+- **Transições e animações CSS**  
+- Estruturação de layout moderno com **Flexbox**  
+- Organização de **blocos de código e pastas**  
+- Uso de **Google Fonts** e **Bootstrap Icons**
+
+###
 
 ## 👨‍💻 Autor
 
