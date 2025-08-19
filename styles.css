@@ -96,6 +96,7 @@ header nav ul li:hover::after {
     height: 100%;
     margin: 0 auto;
     position: relative;
+    z-index: 5;
 }
 
 .item {
